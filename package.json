@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce-mvp",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "wrangler build",
+    "dev": "wrangler dev"
+  },
+  "dependencies": {}
+}
